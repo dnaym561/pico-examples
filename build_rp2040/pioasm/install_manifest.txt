@@ -1,0 +1,5 @@
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm-install/pioasm/pioasm
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm-install/pioasm/pioasmTargets.cmake
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm-install/pioasm/pioasmConfig.cmake
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm-install/pioasm/pioasmConfigVersion.cmake

@@ -1,0 +1,5 @@
+halt
+loadfile /home/umetsu/HDD2/pico/pico-examples/build_rp2040/usb/host/tinyusb_host_examples/device_info/tinyusb_host_device_info.elf
+r
+go
+exit

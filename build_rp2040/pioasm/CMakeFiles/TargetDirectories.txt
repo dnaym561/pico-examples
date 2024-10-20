@@ -1,0 +1,7 @@
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/pioasm.dir
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/edit_cache.dir
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/rebuild_cache.dir
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/list_install_components.dir
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/install.dir
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/install/local.dir
+/home/umetsu/HDD2/pico/pico-examples/build_rp2040/pioasm/CMakeFiles/install/strip.dir

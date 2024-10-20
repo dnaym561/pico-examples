@@ -1,0 +1,5 @@
+halt
+loadfile /home/umetsu/HDD2/pico/pico-examples/build_rp2040/usb/device/tinyusb_device_examples/dynamic_configuration/tinyusb_dev_dynamic_configuration.elf
+r
+go
+exit
